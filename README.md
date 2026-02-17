@@ -12,6 +12,9 @@ On GitHub, I showcase my projects, coding practice, and learning journey — foc
 
 - LinkedIn: https://www.linkedin.com/in/akshaya-bollampally-b8b3b0327
 - Email: akshayabollampally@gmail.com
+- 
+  ---
+  ## Coding Profiles 
 - Leetcode : https://leetcode.com/u/b_akshaya610/
 - CodeChef : https://www.codechef.com/users/b_akshaya610 
 

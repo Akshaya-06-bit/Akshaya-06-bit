@@ -32,7 +32,7 @@ Node.js, Express.js
 MongoDB  
 
 **Tools:**  
-Git, GitHub, VS Code, Postman  
+Git, GitHub, VS Code
 
 ---
 
@@ -56,6 +56,7 @@ Developed a full-stack resource allocation and task management platform that hel
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshaya-06-bit&theme=github"/>
 
 </p>
+
 ---
 
 ## 🎯 What I’m Working On  

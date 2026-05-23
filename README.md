@@ -41,8 +41,8 @@ Git, GitHub, VS Code, Postman
 ### 🔹 Rent-a-Fit — Clothing Renting Web Application  
 Full-stack platform where users can rent or list clothing items with authentication and product management  
 
-### 🔹 Tic Tac Toe Game  
-Interactive browser-based game built using JavaScript with dynamic UI and game logic  
+### 🔹 RTPRA   
+Developed a full-stack resource allocation and task management platform that helps organizations efficiently assign resources to projects and tasks based on availability, workload, and requirements.
 
 ---
 ## 📊 GitHub Stats  
